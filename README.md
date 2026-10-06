@@ -1,6 +1,6 @@
 # AuGhostmentation
 
-Code for "AuGhostmentation: The Eyes Never Stand Still—Why Should Neural Networks?" (Emirhan Inan and Suayb S. Arslan, NeurIPS 2026 (Poster)).
+Code for "AuGhostmentation: The Eyes Never Stand Still—Why Should Neural Networks?" (Emirhan Inan and Suayb S. Arslan, NeurIPS 2026 [Main Track | Poster]).
 
 AuGhostmentation is a training-time image augmentation based on fixational eye movements. For each image, it draws a Poisson number of microsaccades and smears the image alongside a directional motion kernel, blending the result with the current frame. Kernel directions follow the cardinal bias and kernel lengths follow the amplitude distribution measured from human eye-tracking data (GazeBase v2.0). The only parameter that depends on the dataset is the expected number of microsaccades per image, `expected_ms`, which also denotes gaze duration.
 
