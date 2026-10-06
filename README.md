@@ -77,12 +77,13 @@ When using multiple data loader workers, seed NumPy in each worker through `work
 ## Citation
 
 ```bibtex
-@inproceedings{inan2026aughostmentation,
-  title     = {AuGhostmentation: The Eyes Never Stand Still---Why Should Neural Networks?},
-  author    = {Inan, Emirhan and Arslan, Suayb S.},
-  booktitle = {Advances in Neural Information Processing Systems},
-  year      = {2026},
-  note      = {To appear}
+@inproceedings{
+anonymous2026aughostmentation,
+title={AuGhostmentation: The Eyes Never Stand Still{\textemdash}\${\textbackslash}textit\{Why Should {CNN}s?\}\$},
+author={Anonymous},
+booktitle={The Fortieth Annual Conference on Neural Information Processing Systems},
+year={2026},
+url={https://openreview.net/forum?id=UrYjjK6We7}
 }
 ```
 
