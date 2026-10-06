@@ -1,4 +1,0 @@
-File: 35936_AuGhostmentation_The_Eye_Supplementary Material.zip
-SHA256: 9EDFB7450EE21B875022CAA4B6051746AD9747C417C9D4B3144602755DACA8F0
-Hash generated: 2026-08-05
-Purpose: Exact copy of the supplementary material submitted for NeurIPS 2026 review.
